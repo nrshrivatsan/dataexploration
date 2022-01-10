@@ -5,6 +5,7 @@
 3. Understand "Data-type" of each feature
 4. Identify missing data
 5. Find correlations in data
+6. De-Dupe data
 
 # Why do EDA?
 
